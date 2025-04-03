@@ -35,7 +35,7 @@ export default function Home() {
       <section style={{ marginBottom: '1.5rem' }}>
         <h2>📬 연락처</h2>
         <p>Email: kee1472@naver.com</p>
-        <p>GitHub: <a href="https://github.com/syncomkim" target="_blank">https://github.com/syncomkim</a></p>
+        <p>GitHub: <a href="https://github.com/syncomkim" target="_blank">https://github.com/symonkim</a></p>
       </section>
     </div>
   );
