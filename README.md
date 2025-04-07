@@ -1,2 +1,3 @@
 # Hyunki Profile
-This is a sample Next.js project ready for deployment on Vercel.
+
+Web-based bilingual resume with portfolio section.
