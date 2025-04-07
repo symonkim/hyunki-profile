@@ -4,7 +4,6 @@ export default function Home() {
       {/* English Section */}
       <div style={{ flex: 1, paddingRight: '1rem', borderRight: '1px solid #ccc' }}>
         <h1>Hyunki (Simon Kim) / Smart City & C-ITS Expert</h1>
-
         <section>
           <h2>👨‍💻 Career Summary</h2>
           <ul>
@@ -13,7 +12,6 @@ export default function Home() {
             <li>30 years of experience (SI, AV, Monitoring, Firmware)</li>
           </ul>
         </section>
-
         <section>
           <h2>📜 Certifications</h2>
           <ul>
@@ -24,7 +22,6 @@ export default function Home() {
             <li>Industrial Engineer Information Processing</li>
           </ul>
         </section>
-
         <section>
           <h2>📁 Projects</h2>
           <ul>
@@ -33,7 +30,6 @@ export default function Home() {
             <li>Exhibition & Museum AV System</li>
           </ul>
         </section>
-
         <section>
           <h2>📬 Contact</h2>
           <p>Email: kee1472@naver.com</p>
@@ -43,17 +39,15 @@ export default function Home() {
 
       {/* Korean Section */}
       <div style={{ flex: 1, paddingLeft: '1rem' }}>
-        <h1>현기 (시몬킴) / 스마트시티 · C-ITS 전문가</h1>
-
+        <h1>현기 (시몬 킴) / 스마트시티 · C-ITS 전문가</h1>
         <section>
           <h2>👨‍💻 경력 요약</h2>
           <ul>
-            <li>스마트가로등 엣지 컨트롤러 개발 및 구축 PM</li>
+            <li>스마트가로등 에지 컨트롤러 개발 및 구축 PM</li>
             <li>스마트시티 및 C-ITS 제안, 설계, 구축</li>
             <li>30년 경력 (SI, AV 시스템, 모니터링, 펌웨어 등)</li>
           </ul>
         </section>
-
         <section>
           <h2>📜 자격증</h2>
           <ul>
@@ -64,7 +58,6 @@ export default function Home() {
             <li>정보처리산업기사</li>
           </ul>
         </section>
-
         <section>
           <h2>📁 주요 프로젝트</h2>
           <ul>
@@ -73,7 +66,16 @@ export default function Home() {
             <li>전시장/박물관 A/V 시스템 설계 및 구축</li>
           </ul>
         </section>
-
+        <section>
+          <h2>🎨 포트폴리오</h2>
+          <ul>
+            <li><strong>미디어 월 (LED Wall) - BC 카드 본사 로비(을지로)</strong><br/>시스템 구성도, 사양, 운영 U.I</li>
+            <li><strong>Studio system 구축 – 한양대 뉴스룸</strong><br/>스튜디오, 조명, 크로마키, 운영/조정 시스템</li>
+            <li><strong>미디어 월 (매직밀러) – 호텔 리셉션 데스크</strong><br/>시스템 구성도, 직관적 U.I</li>
+            <li><strong>빌딩안내시스템 – 중소기업 중앙회</strong><br/>무인정보 KIOSK, DMR, 엘리베이터, UI 구성</li>
+            <li><strong>빌딩안내시스템 – YesApm</strong><br/>전광판, 매직밀러, 인터랙티브 KIOSK, 엘리베이터, 시스템 구성도</li>
+          </ul>
+        </section>
         <section>
           <h2>📬 연락처</h2>
           <p>이메일: kee1472@naver.com</p>
