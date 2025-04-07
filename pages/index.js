@@ -37,7 +37,7 @@ export default function Home() {
         <section>
           <h2>📬 Contact</h2>
           <p>Email: kee1472@naver.com</p>
-          <p>GitHub: <a href="https://github.com/syncomkim" target="_blank">github.com/syncomkim</a></p>
+          <p>GitHub: <a href="https://github.com/symonkim" target="_blank">github.com/symonkim</a></p>
         </section>
       </div>
 
@@ -77,7 +77,7 @@ export default function Home() {
         <section>
           <h2>📬 연락처</h2>
           <p>이메일: kee1472@naver.com</p>
-          <p>GitHub: <a href="https://github.com/syncomkim" target="_blank">github.com/syncomkim</a></p>
+          <p>GitHub: <a href="https://github.com/symonkim" target="_blank">github.com/symonkim</a></p>
         </section>
       </div>
     </div>
